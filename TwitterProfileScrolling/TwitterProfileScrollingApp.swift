@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+
 struct TwitterProfileScrollingApp: App {
     var body: some Scene {
         WindowGroup {
